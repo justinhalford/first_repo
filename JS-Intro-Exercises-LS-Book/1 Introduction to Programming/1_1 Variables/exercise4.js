@@ -1,0 +1,2 @@
+/* The name Victor will be used for the first three logs because it was declared as a constant value. The attempt to reassign the value to Joe will not work becuase you can not overwrite a constant value. The code will throw an error.
+*/

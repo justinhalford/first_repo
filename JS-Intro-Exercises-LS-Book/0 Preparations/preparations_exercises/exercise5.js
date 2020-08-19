@@ -1,0 +1,2 @@
+/* substring is a prototype method of the string      constructor, create is a static method of the object constructor, fromCharCode is a static method of the string constrcutor, slice is a prototype method of the string and array constructors
+*/

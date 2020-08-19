@@ -1,0 +1,2 @@
+/* Running the code will return an error since foo is only defined within the scope of the block. When foo is referenced by the log() method, there is no defintion of foo in the active scope, thus there is no value to log.
+*/

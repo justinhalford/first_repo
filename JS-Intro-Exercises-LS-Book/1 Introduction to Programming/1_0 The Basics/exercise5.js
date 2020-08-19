@@ -1,0 +1,2 @@
+/* console.log('5' + 10); logs 510 because this is treated as a string concatenation operation which causes implicit type coercion of 10 from an integer into a string. Thus, no numerical additon occurs, only character-wise concatenation.
+*/

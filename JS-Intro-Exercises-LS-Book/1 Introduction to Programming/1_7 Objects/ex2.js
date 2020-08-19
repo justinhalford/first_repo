@@ -1,0 +1,1 @@
+// All of the provided values are valid keys, though some will be type coerced to strings.

@@ -1,0 +1,2 @@
+/* No error occurs when trying to access an out of range index value. This value is simply undefined.
+*/

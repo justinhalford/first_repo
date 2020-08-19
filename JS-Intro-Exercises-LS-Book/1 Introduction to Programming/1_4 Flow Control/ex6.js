@@ -1,0 +1,1 @@
+// The code outputs 'Not Empty' to the console.
